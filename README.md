@@ -6,5 +6,7 @@ This project is for prediction the strength of the concrete used for constructio
 
 ### conda create -n concrete_strength python==3.7.10
 ### conda activate concrete_strength
+### for using in use below in app.py file 
+### port = int(os.getenv("PORT",6000))
 
 '''
